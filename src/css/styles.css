@@ -1,0 +1,22 @@
+body {
+  background: black;
+  color: wheat;
+}
+h1 {
+  text-align: center;
+}
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid wheat;
+}
+span {
+  font-size: 25px;
+  text-align: center;
+}
